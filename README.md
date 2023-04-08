@@ -1,6 +1,6 @@
 # portfolio-feature-engineering
 
-## Diabet
+## Diabetes
 
 ### İş problemi
 
